@@ -1,0 +1,144 @@
+{
+  "homepage": {
+    "hero": {
+      "title": "",
+      "subtitle": "",
+      "primaryButton": "",
+      "secondaryButton": "",
+      "video": "",
+      "handImage": "",
+      "statusTitle": "",
+      "statusText": "",
+      "trustTitle": "",
+      "trustText": ""
+    },
+    "story": {
+      "badge": "OUR STORY",
+      "title": "We built CareCliQ because admin should not get in the way of care.",
+      "description": "CareCliQ helps support workers spend less time on paperwork and more time with people.",
+      "video": "http://localhost:5500/videos/our-story.mp4"
+    },
+    "stats": [],
+    "features": [
+      {
+        "icon": "",
+        "color": "pink",
+        "title": "Love",
+        "description": "...",
+        "badge": "",
+        "video": ""
+      }
+    ],
+    "process": [
+      {
+        "number": "03",
+        "title": "Water",
+        "description": "Water is good",
+        "video": ""
+      }
+    ],
+    "roles": {
+      "title": "",
+      "subtitle": "",
+      "cards": [
+        {
+          "title": "support cordin",
+          "subtitle": "hello",
+          "image": "",
+          "features": [
+            "handle everything",
+            "watter",
+            "food"
+          ]
+        }
+      ]
+    },
+    "testimonials": [
+      {
+        "name": "Javin",
+        "role": "IT",
+        "quote": "hehehehs",
+        "image": "",
+        "audio": ""
+      },
+      {
+        "name": "Javin",
+        "role": "Graphics Designer",
+        "quote": "he works alot but like women",
+        "image": "http://localhost:5500/images/avatar-priya.jpg",
+        "audio": ""
+      }
+    ],
+    "translation": {
+      "badge": "",
+      "title": "",
+      "description": "",
+      "languages": [
+        {
+          "code": "swahili",
+          "label": "Swahili",
+          "worker": "Nilisaidia James kupika chakula.",
+          "compliant": "Participant was supported with meal preparation."
+        },
+        {
+          "code": "Hindi",
+          "label": "Hindi",
+          "worker": "आज जेम्स के साथ खाना पकाने में मदद की। वह थका हुआ था लेकिन खुश था। नहाने में थोड़ी सहायता की।",
+          "compliant": "Participant was supported with meal preparation and personal hygiene including showering with minimal assistance. Goals addressed: independence in ADLs (Goal 2.1). No incidents noted."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Built for businesses who care about documentation quality.",
+      "description": "Join the waitlist. No lock-in contracts.",
+      "primaryButton": "Get Early Access",
+      "secondaryButton": ""
+    },
+    "footer": {
+      "company": "cc tech",
+      "description": "Helping support workers spend less time \non paperwork and more time with people.",
+      "contact": {
+        "email": "info@carecliq.com",
+        "phone": "65 765 7568 8856",
+        "address": "Australia"
+      },
+      "icons": {
+        "email": "mail",
+        "phone": "phone",
+        "location": "map-pin"
+      },
+      "copyright": "2026 CC Tech Australia."
+    }
+  },
+  "media": [
+    {
+      "name": "hero-video.mp4",
+      "url": "http://localhost:5000/uploads/hero-video.mp4",
+      "type": "video"
+    }
+  ],
+  "bookDemo": {
+    "title": "Experience <span>CareCliQ</span>",
+    "subtitle": "See how CareCliQ helps care teams communicate better, stay compliant and support every language.",
+    "benefitsTitle": "Why teams choose CareCliQ",
+    "benefits": [
+      "✓ Multilingual care support",
+      "✓ Better team communication",
+      "✓ Compliance-focused workflows",
+      "✓ Personal platform walkthrough"
+    ],
+    "formTitle": "Request a Demo",
+    "buttonText": "Request Demo",
+    "providerMessage": "Tell us about your care team and we will arrange your personalised CareCliQ walkthrough.",
+    "providerLabel": "Care Organisation",
+    "organisationMessage": "Discover how CareCliQ can support your organisation's communication and workflow needs.",
+    "organisationLabel": "Organisation Name",
+    "partnerMessage": "Tell us how we can work together to improve care experiences.",
+    "partnerLabel": "Company / Partnership Name"
+  },
+  "settings": {
+    "siteName": "CareCliQ",
+    "logo": "",
+    "favicon": ""
+  }
+}
